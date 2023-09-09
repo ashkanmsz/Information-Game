@@ -8,3 +8,5 @@ This is a game that challenges your general knowledge of names that are included
 5. Finally, there would be a table with a given letter and a timer.
 6. You should fill in the blanks with names that begin with that letter.
 7. If anyone fills in all the blanks in time, and pushes the stop button he/she will win the game.
+# How to run:
+Run the **gui.java** file to start the game
